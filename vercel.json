@@ -1,7 +1,7 @@
 {"rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://archiveofourown.org/$1"
+      "destination": "https://google.com/"
     }
   ]
 }
